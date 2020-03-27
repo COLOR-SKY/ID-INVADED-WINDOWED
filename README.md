@@ -2,7 +2,7 @@
 Source code of my project ID:INVADED(WINDOWED) https://www.bilibili.com/video/BV1GE411c7pm
 
 # Python
-textured_static.py
+## textured_static.py
 ![](demo/mask_static.gif)
 ## textured_dynamic.py
 ![](demo/mask_dynamic.gif)
@@ -23,7 +23,7 @@ textured_static.py
 ------
 # Processing
 ## Wolfram
-![](demo/walfram.gif)
+![](demo/wofram.gif)
 ## find_inside_pi
 ![](demo/find_inside_pi.gif)
 ## pixelmotion
