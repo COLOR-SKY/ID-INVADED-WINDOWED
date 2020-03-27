@@ -3,41 +3,28 @@ Source code of my project ID:INVADED(WINDOWED) https://www.bilibili.com/video/BV
 
 # Python
 textured_static.py
-======
 ![](demo/mask_static.gif)
-### textured_dynamic.py
-======
+## textured_dynamic.py
 ![](demo/mask_dynamic.gif)
-### glitch.py
-======
+## glitch.py
 ![](demo/glitch.gif)
-### tunnel.py
-======
+## tunnel.py
 ![](demo/tunnel.gif)
-### grid.py
-======
+## grid.py
 ![](demo/grid.gif)
-### random_windows.py
-======
+## random_windows.py
 ![](demo/random.gif)
-### string.py
-======
+## string.py
 ![](demo/string.gif)
-### planet.py
-======
+## planet.py
 ![](demo/planet.gif)
-### cxk.py(openpose needed)
-======
+## cxk.py(openpose needed)
 ![](demo/cxk.gif)
-======
+------
 # Processing
-======
-### Wolfram
-======
+## Wolfram
 ![](demo/walfram.gif)
-### find_inside_pi
-======
+## find_inside_pi
 ![](demo/find_inside_pi.gif)
-### pixelmotion
-======
+## pixelmotion
 ![](demo/pixelmotion.gif)
