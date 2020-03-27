@@ -1,5 +1,13 @@
 # ID-INVADED-WINDOWED-
 Source code of my project ID:INVADED(WINDOWED) https://www.bilibili.com/video/BV1GE411c7pm
+## Prerequisites
+- opencv-python
+- Pillow
+- numpy
+- pyautogui
+- pywinauto
+- win32gui
+## 
 
 # Python
 ## textured_static.py
