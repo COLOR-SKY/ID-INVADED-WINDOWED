@@ -26,7 +26,7 @@ Source code of my project ID:INVADED(WINDOWED) https://www.bilibili.com/video/BV
 ![](demo/string.gif)
 ## planet.py
 ![](demo/planet.gif)
-## cxk.py(openpose needed)
+## cxk.py([openpose](https://github.com/CMU-Perceptual-Computing-Lab/openpose) needed)
 ![](demo/cxk.gif)
 ------
 # Processing
