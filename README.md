@@ -6,7 +6,7 @@ Source code of my project ID:INVADED(WINDOWED) https://www.bilibili.com/video/BV
 - numpy
 - pyautogui
 - pywinauto
-- win32gui
+- pywin32
 ## 
 
 # Python
